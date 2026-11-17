@@ -21,7 +21,7 @@ Lidero times que constroem **sistemas que não podem parar**: pagamentos, crédi
 
 ### 🛠️ Agora
 
-- **Tech Lead na [Mevo](https://www.mevosaude.com.br/)**: liderando a nova plataforma transacional da MevoFarma (vitrine, checkout e pedido) saindo de um SaaS para microsserviços orientados a eventos na AWS
+- **Tech Lead na [Mevo](https://mevo.com.br/)**: liderando a nova plataforma transacional da MevoFarma (vitrine, checkout e pedido) saindo de um SaaS para microsserviços orientados a eventos na AWS
 - **Fundador da [Shiftvibex](https://shiftvibex.com)**: consultoria de arquitetura e engenharia de software
 
 ### 🧭 Como trabalho
